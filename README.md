@@ -1,4 +1,4 @@
 # ProjectZero-
 This is my first  Git repository.
 <br>
-Author - Aditya Rai Sinha 
+Author - Aditya Raj Sinha 
